@@ -1,2 +1,1 @@
-qweqwrwetretyrt
-qweqwrwetretyrt
+Hola Mundo desde el archivo2.txt.
