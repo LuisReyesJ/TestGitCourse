@@ -1,4 +1,1 @@
-asadadasdafafdbvxcvxcv
-asadadasdafafdbvxcvxcv
-asadadasdafafdbvxcvxcv
-asadadasdafafdbvxcvxcv
+Hola Mundo desde archivo.txt.
